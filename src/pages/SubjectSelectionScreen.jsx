@@ -51,7 +51,7 @@ const SubjectSelectionScreen = () => {
   return (
     <Container>
       <Header>
-        <Title>Choose a Flashcard Topic</Title>
+        <Title>Top 10 Interview Questions</Title>
         <Subtitle>Select a subject to start practicing with flashcards</Subtitle>
       </Header>
       <SubjectsGrid subjects={subjects} />
